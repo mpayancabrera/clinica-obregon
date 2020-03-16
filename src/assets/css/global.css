@@ -1,0 +1,37 @@
+.no-padding {
+  padding: 0 !important;
+}
+
+.margin-30 {
+  margin: 30px;
+}
+
+dl {
+  margin: 0 0 2em;
+}
+
+dl.alt dt {
+  display: block;
+  width: 8em;
+  margin: 0;
+  clear: left;
+  float: left;
+}
+
+dl.large dt {
+  display: block;
+  width: 10em;
+  margin: 0;
+  clear: left;
+  float: left;
+}
+
+dl dt {
+  color: #fff;
+}
+
+dl dt {
+  display: block;
+  font-weight: 400;
+  margin: 0 0 1em;
+}
